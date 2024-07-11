@@ -1,3 +1,7 @@
+https://shando5579.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/00886e58-15e8-4f81-91c0-51ad698e4afe/deploy-status)](https://app.netlify.com/sites/shando5579/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
